@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Hernán Sedano Cardona
+N:Sedano Cardona;Hernán;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:hernansedano@sporos.coop
+EMAIL;TYPE=INTERNET;TYPE=HOME:hdsedano@gmail.com
+TEL;TYPE=WORK:+34 649 07 23 62
+ADR;TYPE=HOME:;Planta Bajo\, Puerta 1;Calle FONT 6;Pals;Girona;17256;ES;Cal
+ le FONT 6\nPlanta Bajo\, Puerta 1\nPals\nGirona\n17256\nES
+item1.ORG:poogi.io
+item1.X-ABLabel:
+item2.TITLE:Founder/CEO
+item2.X-ABLabel:
+item3.URL:poogi.io
+item3.X-ABLabel:Company Website
+URL:poogi.io
+END:VCARD
